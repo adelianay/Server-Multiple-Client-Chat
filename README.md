@@ -3,7 +3,7 @@ Chat application using TCP written in C. Server can handle multiple clients
 
 This project is for Internet & Mobile Programming Courses at Dankook University
 - Adeliana Yuwono (32179096)
-- Diaz (32179097)
+- Diaz Batara Syarmadayu (32179097)
 - Triladias Puteri Heryadi (32179093)
 
 Server :
